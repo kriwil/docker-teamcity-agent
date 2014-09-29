@@ -1,4 +1,4 @@
-FROM kriwil/ubuntu-oracle-java7
+FROM kriwil/docker-ubuntu-java7
 MAINTAINER aldi <kriwil@gmail.com>
 
 RUN apt-get update
